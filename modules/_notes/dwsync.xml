@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="controller.php" local="128329530240000000" remote="128329530240000000" testing="0" />
+<file name="Atom.class.php" local="128286686120000000" remote="128286686120000000" testing="0" />
+<file name="Check.class.php" local="128297902220000000" remote="128297902220000000" testing="0" />
+<file name="Connective.class.php" local="128303925720000000" remote="128303925720000000" testing="0" />
+<file name="Constant.class.php" local="128260747900000000" remote="128260747900000000" testing="0" />
+<file name="controllerOLD.php" local="128319185080000000" remote="128319185080000000" testing="0" />
+<file name="Formula.class.php" local="128215026960000000" remote="128215026960000000" testing="0" />
+<file name="formulaConverter2.class.php" local="128319106040000000" remote="128319106040000000" testing="0" />
+<file name="Function.class.php" local="128260715020000000" remote="128260715020000000" testing="0" />
+<file name="Logicamente.class.php" local="128319219660000000" remote="128319219660000000" testing="0" />
+<file name="LogicamenteOLD.class.php" local="128304064440000000" remote="128304064440000000" testing="0" />
+<file name="Node.class.php" local="128260791560000000" remote="128260791560000000" testing="0" />
+<file name="PatternMatcher.class.php" local="128313556080000000" remote="128313556080000000" testing="0" />
+<file name="readFormula.class.php" local="128303981600000000" remote="128303981600000000" testing="0" />
+<file name="readFormula.class_besta.php" local="128297902220000000" remote="128297902220000000" testing="0" />
+<file name="Relation.class.php" local="128303926000000000" remote="128303926000000000" testing="0" />
+<file name="ResolutionGame.class.php" local="128313593100000000" remote="128313593100000000" testing="0" />
+<file name="Term.class.php" local="128249815580000000" remote="128249815580000000" testing="0" />
+<file name="Variable.class.php" local="128260714080000000" remote="128260714080000000" testing="0" />
+<file name="WFFGenerator.class.php" local="128303077020000000" remote="128303077020000000" testing="0" />
+<file name="WFFTranslator.class.php" local="128297902220000000" remote="128297902220000000" testing="0" />
+</dwsync>
