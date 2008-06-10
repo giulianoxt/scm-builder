@@ -1,0 +1,145 @@
+/*#menuGenerator {
+	background: url("../html/images/bgTeste.jpg") repeat-x;
+	border:1px solid #999999;
+	padding-top:4px;
+	height:17px;
+	text-align:center;
+	width:82px;
+}
+
+#menuGenerator:hover {
+	background: url("../html/images/bgTesteHover.jpg") repeat-x;
+	border-bottom: 1px solid #FFFFFF;
+}
+
+#menuGenerator.selected{
+	background: url("../html/images/bgTesteHover.jpg") repeat-x;
+	border-bottom: 1px solid #FFFFFF;
+}*/
+
+#menuGenerator {
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuGeneratorBtn.jpg");
+	height:23px;
+	width:82px;
+}
+
+#menuGenerator:hover {
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuGeneratorBtnHover.jpg");
+}
+
+#menuGenerator.selected{
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuGeneratorBtnHover.jpg");
+}
+
+#menuDiagnoser {
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuDiagnoserBtn.jpg");
+	height:23px;
+	width:82px;
+}
+
+#menuDiagnoser:hover {
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuDiagnoserBtnHover.jpg");
+}
+
+#menuDiagnoser.selected{
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuDiagnoserBtnHover.jpg");
+}
+
+#menuTranslator {
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuTranslatorBtn.jpg");
+	height:23px;
+	width:82px;
+}
+
+#menuTranslator:hover {
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuTranslatorBtnHover.jpg");
+}
+
+#menuTranslator.selected{
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuTranslatorBtnHover.jpg");
+}
+
+#menuChecker {
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuCheckerBtn.jpg");
+	height:23px;
+	width:82px;
+}
+
+#menuChecker:hover {
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuCheckerBtnHover.jpg");
+}
+
+#menuChecker.selected{
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuCheckerBtnHover.jpg");
+}
+
+#menuSettings {
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuSettingsBtn.jpg");
+	height:23px;
+	width:82px;
+}
+
+#menuSettings:hover {
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuSettingsBtnHover.jpg");
+}
+
+#menuSettings.selected{
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuSettingsBtnHover.jpg");
+}
+
+#menuReadFormula {
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuReadFormulaBtn.jpg");
+	height:23px;
+	width:114px;
+}
+
+#menuReadFormula:hover {
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuReadFormulaBtnHover.jpg");
+}
+
+#menuReadFormula.selected{
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuReadFormulaBtnHover.jpg");
+}
+
+
+#menuResolutionGame {
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuResolutionGameBtn.jpg");
+	height:23px;
+	width:114px;
+}
+
+#menuResolutionGame:hover {
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuResolutionGameBtnHover.jpg");
+}
+
+#menuResolutionGame.selected{
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuResolutionGameBtnHover.jpg");
+}
+
+#menuTruthTable {
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuTruthTableBtn.jpg");
+	height:23px;
+	width:86px;
+}
+
+#menuTruthTable:hover {
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuTruthTableBtnHover.jpg");
+}
+
+#menuTruthTable.selected{
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuTruthTableBtnHover.jpg");
+}
+
+#menuTreeInteraction {
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuTreeInteractionBtn.jpg");
+	height:23px;
+	width:114px;
+}
+
+#menuTreeInteraction:hover {
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuTreeInteractionBtnHover.jpg");
+}
+
+#menuTreeInteraction.selected{
+	background: url("http://www.dimap.ufrn.br/root_logicamente/system/html/images/menuTreeInteractionBtnHover.jpg");
+}
